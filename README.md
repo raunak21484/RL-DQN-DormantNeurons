@@ -1,22 +1,10 @@
-# [PYTORCH] Deep Q-learning for playing Flappy Bird
+# Exhibiting the Dormant Neuron Phenomenon in a novel envorinment
 
 ## Introduction
 
-Here is my python source code for training an agent to play flappy bird. It could be seen as a very basic example of Reinforcement Learning's application.
-<p align="center">
-  <img src="demo/flappybird.gif" width=600><br/>
-  <i>Result</i>
-</p>
-
-## How to use my code
-
-With my code, you can:
-* **Train your model from scratch** by running **python train.py**
-* **Test your trained model** by running **python test.py**
-
-## Trained models
-
-You could find my trained model at **trained_models/flappy_bird**
+The original paper: https://arxiv.org/pdf/2302.12902.pdf uses the dopamine environment that works on atari games.
+We have used the environment from: https://github.com/uvipen/Flappy-bird-deep-Q-learning-pytorch
+and successfully reproduced the paper
  
 ## Requirements
 
