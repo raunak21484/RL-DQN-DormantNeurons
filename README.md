@@ -1,4 +1,4 @@
-# Exhibiting the Dormant Neuron Phenomenon in a novel envorinment
+# Exhibiting the Dormant Neuron Phenomenon in a novel environment
 
 ## Introduction
 
